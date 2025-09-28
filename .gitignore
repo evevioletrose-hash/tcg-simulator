@@ -1,0 +1,12 @@
+# Go build
+/bin/
+/obj/
+
+# Dependency directories
+/vendor/
+
+# IDE/editor configs
+*.swp
+*.swo
+.idea/
+.vscode/
